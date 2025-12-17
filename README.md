@@ -1,8 +1,6 @@
-# Curso Java - Udemy
+# Java - Estudos
 
-Acompanhe minha jornada de aprendizado em programação Java, desenvolvida a partir do curso ministrado pelo professor **Nélio Alves** na plataforma **Udemy**.
-
-Este curso é voltado para capacitar desenvolvedores iniciantes, abordando desde fundamentos da programação até conceitos avançados de **orientação a objetos** com Java.
+Acompanhe minha jornada de aprendizado em programação Java.
 
 Ao longo do projeto, são explorados:
 
